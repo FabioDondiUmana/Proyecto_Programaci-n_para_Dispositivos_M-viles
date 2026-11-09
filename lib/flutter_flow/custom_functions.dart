@@ -1,0 +1,13 @@
+export '/custom_code/functions/tiendas_de_ejemplo.dart';
+export '/custom_code/functions/tiene_ubicacion.dart';
+export '/custom_code/functions/distancia_km.dart';
+export '/custom_code/functions/tienda_mas_cercana.dart';
+export '/custom_code/functions/texto_distancia.dart';
+export '/custom_code/functions/abierta_ahora.dart';
+export '/custom_code/functions/estado_apertura.dart';
+export '/custom_code/functions/estilos_texto.dart';
+export '/custom_code/functions/es_favorita.dart';
+export '/custom_code/functions/filtrar_tiendas.dart';
+export '/custom_code/functions/ordenar_por_distancia.dart';
+export '/custom_code/functions/etiqueta_tienda.dart';
+export '/custom_code/functions/formato_telefono.dart';
